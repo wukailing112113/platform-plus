@@ -1,10 +1,7 @@
-#### [腾讯云2019新春采购节](https://cloud.tencent.com/redirect.php?redirect=1036&cps_key=30280f92fc381dfc9e1d9e0e23d25a18&from=console)：
-【开年好云 钜惠来袭】2019新春采购节，30款云产品感恩回馈。
-[![腾讯云2019新春采购节](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/active/tx/520_120.jpg)](https://cloud.tencent.com/redirect.php?redirect=1036&cps_key=30280f92fc381dfc9e1d9e0e23d25a18&from=console)
 
-#### [阿里云开年采购季](https://www.aliyun.com/acts/product-section-2019/new-users?userCode=i8s6n64p)：
+#### [阿里云年中采购季大优惠](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=zjx92wkv)：
 入门爆款云服务器，降低采购成本，开发者和小微企业首选。
-[![阿里云开年采购季](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/active/ali/540x250.jpg)](https://www.aliyun.com/acts/product-section-2019/new-users?userCode=i8s6n64p)
+[![阿里云年中采购季](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=zjx92wkv)](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=zjx92wkv)
 
 #### 项目说明
 - platform-plus是一个轻量级的，前后端分离的Java快速开发平台
