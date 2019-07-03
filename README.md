@@ -1,7 +1,7 @@
 
 #### [阿里云年中采购季大优惠](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=zjx92wkv)：
 入门爆款云服务器，降低采购成本，开发者和小微企业首选。
-[![阿里云年中采购季](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=zjx92wkv)
+[阿里云年中采购季](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=zjx92wkv)
 
 #### 项目说明
 - platform-plus是一个轻量级的，前后端分离的Java快速开发平台
